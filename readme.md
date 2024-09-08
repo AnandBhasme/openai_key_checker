@@ -26,13 +26,13 @@ To set up the project locally, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aikemist/openai-key-checker.git
+git clone https://github.com/aikemist/openai_key_checker.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-cd openai-key-checker
+cd openai_key_checker
 ```
 
 3. Install the project dependencies:
